@@ -17,9 +17,6 @@ Customization (for Advanced): Allow users to personalize the assistant by adding
 
 2 - PROJECT -  Idea: BMI Calculator
 
-Project Description:
-For Beginners: Create a command-line BMI calculator in Python. Prompt users for their weight (in kilograms) and height (in meters). Calculate the BMI and classify it into categories (e.g., underweight, normal, overweight) based on predefined ranges. Display the BMI result and category to the user.
-
 For Advanced: Develop a graphical BMI calculator with a user-friendly interface (GUI) using libraries like Tkinter or PyQt. Allow users to input weight and height, calculate BMI, and visualize the result. Enable data storage for multiple users, historical data viewing, and BMI trend analysis through statistics and graphs.
 
 Key Concepts and Challenges:
@@ -31,6 +28,14 @@ Data Storage (for Advanced): Implement user data storage, possibly using file st
 Data Visualization (for Advanced): Visualize historical BMI data with graphs or charts.
 Error Handling (for Advanced): Address potential issues with data storage or retrieval.
 User Experience (for Advanced): Ensure a responsive and user-friendly GUI with clear instructions and feedback.
+
+Image: 
+![Screenshot 2024-03-13 at 12 51 20](https://github.com/Legacyfgs/OBSIP/assets/84978510/130b5291-821a-4c5c-9826-835bf81d9c28)
+
+https://github.com/Legacyfgs/OBSIP/assets/84978510/9a3ebfed-9051-49b4-8855-41f7e970070f 
+
+
+
 
 3 - PROJECT - Idea: Random Password Generator
 
