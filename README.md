@@ -28,7 +28,7 @@ Data Visualization (for Advanced): Visualize historical BMI data with graphs or 
 Error Handling (for Advanced): Address potential issues with data storage or retrieval.
 User Experience (for Advanced): Ensure a responsive and user-friendly GUI with clear instructions and feedback.
 
-Image: 
+**Img: **
 ![Screenshot 2024-03-13 at 12 51 20](https://github.com/Legacyfgs/OBSIP/assets/84978510/130b5291-821a-4c5c-9826-835bf81d9c28)
 
 https://github.com/Legacyfgs/OBSIP/assets/84978510/9a3ebfed-9051-49b4-8855-41f7e970070f 
@@ -47,6 +47,11 @@ GUI Design (for Advanced): Create an intuitive and user-friendly interface for p
 Security Rules (for Advanced): Implement rules for generating strong, secure passwords.
 Clipboard Integration (for Advanced): Allow users to copy generated passwords to the clipboard for convenience.
 Customization (for Advanced): Enable users to customize password generation further, e.g., excluding specific characters.
+
+**Img:**
+![Screenshot 2024-03-14 at 00 48 16](https://github.com/Legacyfgs/OBSIP/assets/84978510/a41c91f9-55c3-41d1-9bb7-301d89461319)
+
+https://github.com/Legacyfgs/OBSIP/assets/84978510/cbeadb2f-ef36-4143-82b8-2f3bc20b47a7
 
 
 **4 - PROJECT: Basic Weather App**
