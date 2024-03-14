@@ -68,6 +68,15 @@ Error Handling: Address potential errors during data retrieval or user input.
 Data Visualization (for Advanced): Display weather data in an appealing manner, possibly using icons or animations.
 Unit Conversion (for Advanced): Offer unit options for temperature (e.g., Celsius and Fahrenheit).
 
+**Img**
+![Screenshot 2024-03-14 at 02 23 33](https://github.com/Legacyfgs/OBSIP/assets/84978510/ab3455b8-4c5d-4353-b1a9-8c7d5140a8a8)
+![Screenshot 2024-03-14 at 02 22 54](https://github.com/Legacyfgs/OBSIP/assets/84978510/1313b524-fe91-4bb1-9ed3-30b36594e9d0)
+![Screenshot 2024-03-14 at 02 20 07](https://github.com/Legacyfgs/OBSIP/assets/84978510/ea24e9ac-b8ba-4179-b718-726992a93fd7)
+![Screenshot 2024-03-14 at 02 20 49](https://github.com/Legacyfgs/OBSIP/assets/84978510/356f8cd1-05a4-4f37-aa4d-15311cc9be13)
+
+https://github.com/Legacyfgs/OBSIP/assets/84978510/b1f2924d-8d37-4892-8f27-6f04d1319fb9
+
+
 
 **5 - PROJECT: Chat Application**
 
