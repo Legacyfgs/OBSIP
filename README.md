@@ -28,7 +28,7 @@ Data Visualization (for Advanced): Visualize historical BMI data with graphs or 
 Error Handling (for Advanced): Address potential issues with data storage or retrieval.
 User Experience (for Advanced): Ensure a responsive and user-friendly GUI with clear instructions and feedback.
 
-**Img: **
+
 ![Screenshot 2024-03-13 at 12 51 20](https://github.com/Legacyfgs/OBSIP/assets/84978510/130b5291-821a-4c5c-9826-835bf81d9c28)
 
 https://github.com/Legacyfgs/OBSIP/assets/84978510/9a3ebfed-9051-49b4-8855-41f7e970070f 
@@ -48,7 +48,7 @@ Security Rules (for Advanced): Implement rules for generating strong, secure pas
 Clipboard Integration (for Advanced): Allow users to copy generated passwords to the clipboard for convenience.
 Customization (for Advanced): Enable users to customize password generation further, e.g., excluding specific characters.
 
-**Img:**
+
 ![Screenshot 2024-03-14 at 00 48 16](https://github.com/Legacyfgs/OBSIP/assets/84978510/a41c91f9-55c3-41d1-9bb7-301d89461319)
 
 https://github.com/Legacyfgs/OBSIP/assets/84978510/cbeadb2f-ef36-4143-82b8-2f3bc20b47a7
@@ -68,7 +68,7 @@ Error Handling: Address potential errors during data retrieval or user input.
 Data Visualization (for Advanced): Display weather data in an appealing manner, possibly using icons or animations.
 Unit Conversion (for Advanced): Offer unit options for temperature (e.g., Celsius and Fahrenheit).
 
-**Img**
+
 ![Screenshot 2024-03-14 at 02 23 33](https://github.com/Legacyfgs/OBSIP/assets/84978510/ab3455b8-4c5d-4353-b1a9-8c7d5140a8a8)
 ![Screenshot 2024-03-14 at 02 22 54](https://github.com/Legacyfgs/OBSIP/assets/84978510/1313b524-fe91-4bb1-9ed3-30b36594e9d0)
 ![Screenshot 2024-03-14 at 02 20 07](https://github.com/Legacyfgs/OBSIP/assets/84978510/ea24e9ac-b8ba-4179-b718-726992a93fd7)
