@@ -83,7 +83,11 @@ https://github.com/Legacyfgs/OBSIP/assets/84978510/02373b18-54d9-4369-a97d-74870
 **5 - PROJECT: Chat Application**
 
 Create a basic text-based chat application in Python where two users can exchange messages in real-time using the command line. Implement a simple client-server model for message exchange.
-https://github.com/Legacyfgs/OBSIP/assets/84978510/3f090573-9407-43ce-b232-b909944a6af9
+
+
+https://github.com/Legacyfgs/OBSIP/assets/84978510/bb6624f4-9b52-45f3-bdff-ad36dc646e5c
+
+
 
 
 
