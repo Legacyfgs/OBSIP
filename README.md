@@ -1,19 +1,5 @@
 # OBSIP
-**1 - PROJECT: Voice Assistant**
-
-Description:
-Develop an advanced voice assistant with natural language processing capabilities. Enable it to perform tasks such as sending emails, setting reminders, providing weather updates, controlling smart home devices, answering general knowledge questions, and even integrating with third-party APIs for more functionality.
-
-Key Concepts and Challenges:
-Speech Recognition: Learn how to recognize and process voice commands using speech recognition libraries or APIs.
-Natural Language Processing (for Advanced): Implement natural language understanding to interpret and respond to user queries.
-Task Automation (for Advanced): Integrate with various APIs and services to perform tasks like sending emails or fetching weather data.
-User Interaction: Create a user-friendly interaction design that allows users to communicate with the assistant via voice commands.
-Error Handling: Handle potential issues with voice recognition, network requests, or task execution.
-Privacy and Security (for Advanced): Address security and privacy concerns when handling sensitive tasks or personal information.
-Customization (for Advanced): Allow users to personalize the assistant by adding custom commands or integrations.
-
-**2 - PROJECT: BMI Calculator**
+PROJECT: BMI Calculator**
 
 Description:
 Develop a graphical BMI calculator with a user-friendly interface (GUI) using libraries like Tkinter or PyQt. Allow users to input weight and height, calculate BMI, and visualize the result. Enable data storage for multiple users, historical data viewing, and BMI trend analysis through statistics and graphs.
@@ -34,7 +20,7 @@ User Experience (for Advanced): Ensure a responsive and user-friendly GUI with c
 https://github.com/Legacyfgs/OBSIP/assets/84978510/9a3ebfed-9051-49b4-8855-41f7e970070f 
 
 
-**3 - PROJECT: Random Password Generator**
+PROJECT: Random Password Generator**
 
 Description:
 Develop an advanced password generator with a graphical user interface (GUI) using Tkinter or PyQt. Enhance it by including options for password complexity, adherence to security rules, and clipboard integration for easy copying.
@@ -54,7 +40,7 @@ Customization (for Advanced): Enable users to customize password generation furt
 https://github.com/Legacyfgs/OBSIP/assets/84978510/cbeadb2f-ef36-4143-82b8-2f3bc20b47a7
 
 
-**4 - PROJECT: Basic Weather App**
+PROJECT: Basic Weather App**
 
 Description:
 Develop a graphical weather app with a user-friendly interface (GUI) using libraries like Tkinter or PyQt. Enable users to input their location or use GPS for automatic detection. Provide detailed weather data, including current conditions, hourly and daily forecasts, wind speed, and visual elements like weather icons.
@@ -80,7 +66,7 @@ https://github.com/Legacyfgs/OBSIP/assets/84978510/02373b18-54d9-4369-a97d-74870
 
 
 
-**5 - PROJECT: Chat Application**
+PROJECT: Chat Application**
 
 Create a basic text-based chat application in Python where two users can exchange messages in real-time using the command line. Implement a simple client-server model for message exchange.
 
